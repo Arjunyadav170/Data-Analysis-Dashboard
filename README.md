@@ -20,7 +20,11 @@ This project analyzes the placement data of college students from 2018 to 2021 u
 3. Handle missig data with many method
 4. Creat Graph charts of this data
 
- # DESHBOARD
+ ## DESHBOARD
  ![Deshboard-Screenshort](https://github.com/user-attachments/assets/fd9001a7-20a4-47d8-a704-3c55af3efc70)
  
-   
+  ## Project Insight
+  The analysis identifies the companies that have recruited the most students from 2018 to 2022. It highlights trends in hiring, such as which years saw the highest recruitment activity and which companies consistently hired students. For instance," TCS Company" emerged as the top recruiter, showing consistent hiring across multiple years, indicating strong industry relationships with the college.
+  
+## Final Conclusion
+The placement analysis from 2018 to 2021 demonstrates the college's strong track record in securing opportunities for students. Key findings include consistent placement growth, high performance in Computer Science placements, and lucrative packages in Electronics and Communication. Top recruiters like TCS and Vedanta Ltd. Company"highlight the institution's appeal to leading companies.
